@@ -1,0 +1,26 @@
+module.exports = {
+  ENABLED_FEATURES: {
+    MODERATION: true,
+    WELCOME_SYSTEM: true,
+    AUTO_MOD: true,
+    LOGGING: true,
+    REACTION_ROLES: true,
+    SEVENWSEVEN_HELPER: true,
+    STATISTICS: false,
+    LEVEL_SYSTEM: false
+  },
+
+  SEVENWSEVEN: {
+    BOT_ID: '705910242285715546',
+    ENABLED: true,
+    NOTIFY_ROLE: '7W7_PING_ROLE_ID_HERE',
+    NOTIFY_CHANNEL: '7W7_CHANNEL_ID_HERE',
+    MONITOR_CARD_SPAWNS: true,
+    MONITOR_RAIDS: true,
+    TIER_COLORS: {
+      LEGENDARY: 16766720,
+      EPIC: 10181046,
+      RARE: 3447003
+    }
+  }
+};
