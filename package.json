@@ -1,5 +1,6 @@
+
 {
-  "name": "Lunaire-Bot",
+  "name": "lunaire",
   "version": "1.0.0",
   "description": "Complete management system for Harbingers Discord server",
   "main": "bot.js",
